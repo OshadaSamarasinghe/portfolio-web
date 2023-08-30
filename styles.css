@@ -172,7 +172,9 @@ body, h1, h2, h3, p, ul, li {
     margin-right: 35%;
   }
   button{
-    background-color: #04AA6D;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #38d60c;
     border-radius: 5px;
     text-decoration: none;
     border: none;
