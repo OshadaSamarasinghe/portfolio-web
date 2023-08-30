@@ -1,0 +1,247 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  h2 {
+    text-align: center;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(188, 226, 249);
+  }
+  .img1{
+    border-radius: 25px;
+    width: 80%;
+    height: 100%;
+    /* padding-left: 5%; */
+    margin-left: 10%;
+  }
+  .div1{
+    display: flex;
+  }
+  .skill{
+    display: flex;
+  }
+  .skilldiv{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    max-height: 500px;
+    flex: 1;
+    align-items: center;
+  }
+  .div2{
+    max-height: 500px;
+    flex: 1;
+    align-items: center;
+  }
+  .pro{
+    display: flex;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .divlist{
+    margin-top: 40px;
+  }
+  .d4{
+    flex: 1;
+    /* margin-left: 15%; */
+    width: 50px;
+  }
+  .d4 a{
+    text-decoration: none;
+    font-weight: 600;
+  }
+  /* .d4 a:link, a:visited{
+    color: black;
+  } */
+  .d4 a:hover{
+    color: rgb(181, 8, 8);
+  }
+  h3{
+    text-align: center;
+  }
+  .p2{
+    text-align: center;
+  }
+  .d3{
+    margin-top: 10%;
+  }
+  .p1{
+    width: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  header {
+    background-color: #fff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  .ul1{
+    list-style-type: none;
+  }
+  nav{
+    overflow: hidden;
+    position: fixed;
+    background-color: #333;
+    width: 100%;
+    top: 0;
+    height: 50px;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  nav ul li {
+    margin: 0 30px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  section {
+    max-height: 80%;
+    max-width: 80%;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9df;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .proimg{
+    display: flex;
+    width: 100%;
+  }
+  .proj{
+    border-radius: 15px;
+    width: 100%;
+    height: 70%;
+  }
+  .project {
+    text-align: center;
+    flex: 2;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: none;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  .contact{
+    display: flex;
+    width: 100%;
+  }
+  .con{
+    text-align: center;
+    flex: 1;
+    margin-top: 10px;
+  }
+
+  .container {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 25px;
+    height: 15px;
+  }
+  
+  .skills {
+    font-size: 12px;
+    text-align: right;
+    padding-top: 0;
+    padding-bottom: 0;
+    color: white;
+    height: 15px;
+  }
+  .btn{
+    margin-top: 20px;
+    margin-left: 35%;
+    margin-right: 35%;
+  }
+  button{
+    background-color: #04AA6D;
+    border-radius: 5px;
+    text-decoration: none;
+    border: none;
+    width: 100%;
+    height: 50px;
+  }
+  .html {
+    width: 90%; 
+    background-color: #04AA6D;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .css {
+    width: 80%; 
+    background-color: red;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .javascript {
+    width: 70%; 
+    background-color: #05097e;
+    border-radius: 25px;
+    height: 15px;
+  }
+  .cs {
+    width: 75%; 
+    background-color: #b706bd;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .flutter {
+    width: 80%; 
+    background-color: #12d9e7;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .flutter {
+    width: 80%; 
+    background-color: #12d9e7;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .dart {
+    width: 75%; 
+    background-color: #a5ea24;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .python {
+    width: 80%; 
+    background-color: #5904ba;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .mysql {
+    width: 85%; 
+    background-color: #efd90a;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .cpp {
+    width: 70%; 
+    background-color: #fa11ee;
+    border-radius: 25px; 
+    height: 15px;
+  }
+  .java {
+    width: 90%; 
+    background-color: #ef6211;
+    border-radius: 25px; 
+    height: 15px;
+  }
